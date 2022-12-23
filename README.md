@@ -9,7 +9,7 @@
 
 1. add logic in `counter.ts` in `slices` folder
 2. create store in `store.ts` file
-3. provide th app for thr whole
+3. provide th app for the whole
 
 ## Screenshot
 
