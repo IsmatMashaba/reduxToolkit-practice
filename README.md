@@ -7,4 +7,10 @@
 
 ## Requirements
 
-1.
+1. add logic in `counter.ts` in `slices` folder
+2. create store in `store.ts` file
+3. provide th app for thr whole
+
+## Screenshot
+
+![result](./screenshot/redux.png)
