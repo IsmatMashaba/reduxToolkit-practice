@@ -6,7 +6,6 @@ import { useDispatch } from "react-redux";
 import { actions } from "./redux/slice/counter";
 
 function App() {
-    return <div className="App"/>;
     const dispatch = useDispatch();
     return  <div className="App">
         <div>
